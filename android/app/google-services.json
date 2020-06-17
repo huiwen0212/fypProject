@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "210065456919",
+    "firebase_url": "https://powerrepofirebase.firebaseio.com",
+    "project_id": "powerrepofirebase",
+    "storage_bucket": "powerrepofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210065456919:android:373ed9ce984350e9",
+        "android_client_info": {
+          "package_name": "com.kollect.powerrepomobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210065456919-e2f9bn84vekpoua84mfjejrqhfrathon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgfvwLVOIdFOQIrmt_X6ISSkH4_U7g--c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
